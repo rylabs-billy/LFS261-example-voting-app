@@ -1,6 +1,6 @@
 [![Build Status](http://172.232.5.25:8080/buildStatus/icon?job=instavote%2Fworker-build&style=plastic)](http://172.232.5.25:8080/job/instavote/job/worker-build/)
 [![Build Status](http://172.232.5.25:8080/buildStatus/icon?job=instavote%2Fworker-package&style=plastic)](http://172.232.5.25:8080/job/instavote/job/worker-package/)
-[![Build Status](http://172.232.5.25:8080/buildStatus/icon?job=instavote%2Fworker-test&style=plastic)](http://172.232.5.25:8080/job/instavote/job/worker-test/)
+[![Build Status](http://172.232.5.25:8080/buildStatus/icon?job=instavote%2Fworker-test&subject=Unittest&style=plastic)](http://172.232.5.25:8080/job/instavote/job/worker-test/)
 
 Example Voting App
 =========
