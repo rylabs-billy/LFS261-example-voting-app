@@ -1,4 +1,4 @@
-[![Build Status](http://172.232.5.25:8080/buildStatus/icon?job=instavote%2Fworker-build&build=23)](http://172.232.5.25:8080/job/instavote/job/worker-build/lastBuild/)
+[![Build Status](http://172.232.5.25:8080/buildStatus/icon?job=instavote%2Fworker-build&style=plastic)](http://172.232.5.25:8080/job/instavote/job/worker-build/)
 
 Example Voting App
 =========
